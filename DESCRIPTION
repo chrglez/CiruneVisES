@@ -1,0 +1,13 @@
+Package: cirunevises
+Title: Selective Surgeries in SNS hospitals Viz
+Version: 0.0.0.9000
+Authors@R: person('Christian', 'Gonzalez-Martel', email = 'christian.gonzalez@ulpgc.es', role = c('cre', 'aut'))
+Description: CiruneVisES offers dynamic visualizations of elective surgery data across Spanish hospitals. It's a tool for healthcare professionals and researchers to analyze trends, outcomes, and capacities, facilitating informed decision-making and research.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.8.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
